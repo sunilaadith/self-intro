@@ -1,6 +1,6 @@
 # self-intro
-Hi! My name is "xxxx"
-I am persuing Btech degree
+Hi! My name is "Athul santhosh"
+I am persuing Btech degree in electronics and communication
 Intrested in coding
 .............
 ............
