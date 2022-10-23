@@ -1,6 +1,6 @@
 # self-intro
-Hi! My name is "Athul santhosh"
-I am persuing Btech degree in electronics and communication
+Hi! My name is "Vijay Vinod"
+I am persuing Btech degree in Computer Science
 Intrested in coding
 .............
 ............
