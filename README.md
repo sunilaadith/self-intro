@@ -1,5 +1,13 @@
 
 
+
+# self-intro
+Hi! My name is "Abhinav Vinayarajan"
+I am pursuing Btech degree in  Electronics and Communication
+Intrested in coding
+..........
+..........
+..........
 # self-intro 1
 Hi! My name is "Mahima KV"
 I am pursuing Btech degree in Electrical and Electronics
@@ -16,5 +24,4 @@ Hi! My name is "Lince Joseph"
 I am Currently persuing Btech degree in ElectronicS and Communication Engineering
 Intrested in Coding and to learn new programming languages
 
-I am Abhijath G Nath from s7 ec1
-Avinash here
+
