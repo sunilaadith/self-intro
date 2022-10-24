@@ -1,6 +1,6 @@
 
 
-# self-intro
+# self-intro 1
 Hi! My name is "Mahima KV"
 I am pursuing Btech degree in Electrical and Electronics
 Intrested in coding
@@ -9,7 +9,7 @@ Hi! My name is "SAYOOJ S"
 I am persuing Btech degree in ELECTRONICS AND COMMUNICATION
 Intrested in coding
 
-# self_introduction
+# self_introduction 2
 Hi! My name is "SAYOOJ S"
 I am Currently persuing Btech degree in Electronic and Telecommunication
 Hi! My name is "Lince Joseph"
