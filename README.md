@@ -2,8 +2,8 @@
 
 # self-intro
 inside div in INDEX.html add :
-Hi! My name is "Vijay Vinod"
-I am persuing Btech degree in Computer Science
+Hi! My name is "SAYOOJ S"
+I am persuing Btech degree in ELECTRONICS AND COMMUNICATION
 Intrested in coding
 
 # self_introduction
